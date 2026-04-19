@@ -36,14 +36,15 @@ What makes this project different:
 Event: Global Hackfest 2026  
 Focus Area: Open Innovation  
 Team: Solo Project  
-Submission Date: 2026-04-20  
+Submission Date: 2026-04-20 
 
 ---
 
 # 👥 Team
 
-Name | Role | GitHub | Discord 
-Bashaeer Alsulaimani | Developer | @bashaeralsulaimani39|@Bashaeralsu39
+| Name | Role | GitHub | Discord |
+|------|------|---------|----------|
+| Bashaeer Alsulaimani | Developer | @bashaeralsulaimani39 | @Bashaeralsu39 |
 
 ---
 
